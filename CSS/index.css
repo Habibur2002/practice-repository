@@ -2,3 +2,13 @@ h2{
     color: aqua;
     background-color: black;
 }
+div{
+    width: 500px;
+    border: 5px solid wheat;
+    border-radius: 10px;
+    margin: 5px;
+}
+input{
+    display: block;
+
+}
